@@ -25,4 +25,6 @@ def print_answer(answer):
 
 
 
-print(get_indices_of_item_weights([4, 4], 2, 8))
+#print(get_indices_of_item_weights([4, 4], 2, 8))
+
+string1 = ""
